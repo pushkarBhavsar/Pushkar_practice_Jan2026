@@ -1,3 +1,4 @@
 .env
 api_secrete.txt
+bronze/
 # this file is used to ignore sensitive information
