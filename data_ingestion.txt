@@ -8,4 +8,8 @@ here I am Master so let me Invlove me in project
 hey please add me in next sprint.
 no need to change this is final production
 
+<<<<<<< HEAD
 I am ingest batch data 
+=======
+I am ingesting big data 
+>>>>>>> aee9902 (ingest the big data)
